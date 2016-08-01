@@ -1,6 +1,6 @@
 name: Laurenceshorter
 favicon: null
-layout_spectrum: 0.2729013906791806
+layout_spectrum: 0.99414
 typography_spectrum: 0.28905529086478055
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.5968352153431624
-  lightness: 0.9654421345330775
-  saturation: 0.026525653200224042
-  rhythmicContrast: 0.4171734778210521
+    - '#ffe66b'
+    - '#ff5f00'
+    - '#7ad4b4'
+    - '#0a0000'
+    - '#a3a494'
+  brandStrength: 0.625
+  lightness: 1
+  saturation: 0
+  rhythmicContrast: 0.5
 purpose: []
