@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Laurenceshorter]]></title>
         <description><![CDATA[Laurenceshorter]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/laurenceshorter/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 01 Aug 2016 19:36:03 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 01 Aug 2016 19:43:38 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/laurenceshorter/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
+            <title><![CDATA[I've no idea how to use this dude]]></title>
             <description><![CDATA[<p>A homeopathic dose of Donald Trump</p>]]></description>
-            <link>undefineda-homeopathic-dose-of-donald-trump/index.html</link>
+            <link>https://thegrid.ai/laurenceshorter/a-homeopathic-dose-of-donald-trump/index.html</link>
             <guid isPermaLink="false">60724390-607a-47f9-baba-0df9caf745dc</guid>
-            <pubDate>Mon, 01 Aug 2016 19:36:02 GMT</pubDate>
+            <pubDate>Mon, 01 Aug 2016 19:43:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
